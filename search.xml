@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>小站的开始</title>
+      <link href="/2025/02/17/2025.2.17/"/>
+      <url>/2025/02/17/2025.2.17/</url>
+      
+        <content type="html"><![CDATA[<h2 id="开始"><a href="#开始" class="headerlink" title="开始"></a>开始</h2><p>其实很早就想做一个自己的网站了，但奈何自己技术力不够，高中试了两三次都做一半做不下去了。有时候服务器都搭不好，有时候服务器搭好了，也可以正常访问，但孩子不会写html，抄网上开源网站模版也抄不明白（悲）<br>最近在网上看到了开源博客框架hexo加butterfly主题挂载到github上面来做个人网页的方案就尝试了一下 做了两三天也算做了一个非常简陋的小站，以后慢慢完善，分享一些自己的学习心得，也希望自己可以学到更多东西喽~</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+    
+    
+    <entry>
+      <title>图库</title>
+      <link href="/gallery/index.html"/>
+      <url>/gallery/index.html</url>
+      
+        <content type="html"><![CDATA[<div class="gallery-group-main"><figure class="gallery-group">    <img class="gallery-group-img no-lightbox" src='/background/homepage_background.png' alt="Group Image Gallery">    <figcaption>      <div class="gallery-group-name">封面专区</div>      <p>本站用作文章封面的图片，不保证分辨率</p>      <a href='/background/homepage_background.png'></a>    </figcaption>  </figure><figure class="gallery-group">    <img class="gallery-group-img no-lightbox" src='/background/index_background.png' alt="Group Image Gallery">    <figcaption>      <div class="gallery-group-name">背景专区</div>      <p>收藏的一些的背景与壁纸，分辨率很高</p>      <a href='/background/index_background.png'></a>    </figcaption>  </figure></div>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>关于</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="1-线路信息"><a href="#1-线路信息" class="headerlink" title="1.线路信息"></a>1.线路信息</h2><ul><li>域名：<a href="https://jiovo.cn/">jiovo.cn</a></li><li>解析到<a href="https://vercel.com/">Vercel</a>，Vercel有全球的泛播节点，兼具全球CDN功能，国内访问速度较快</li></ul><h2 id="2-技术栈-框架"><a href="#2-技术栈-框架" class="headerlink" title="2.技术栈&amp;框架"></a>2.技术栈&amp;框架</h2><ul><li>博客框架：<a href="https://hexo.io/zh-cn/">Hexo 7.3.0</a></li><li>主题：<a href="https://github.com/jerryc127/hexo-theme-butterfly">Butterfly 4.3.1</a></li><li>源码仓库：<a href="https://github.com/auspicious-j/auspicious-j.github.io">Github</a></li></ul><h2 id="3-关于本人"><a href="#3-关于本人" class="headerlink" title="3.关于本人"></a>3.关于本人</h2><ul><li>昵称：吉吉</li><li>性别：♂</li><li>身份：大一学生</li><li>爱好：网上瞎逛找点有意思的东西玩玩</li><li>邮箱：<a href="j2378937130@gmail.com">j2378937130@gmail.com</a> | <a href="2378937130@qq.com">2378937130@qq.com</a></li><li>擅长：会点c 会点stm32 会点esp32 会点python</li><li>域名由来：姓氏拼音加颜文字~</li></ul><h2 id="4-小站历程"><a href="#4-小站历程" class="headerlink" title="4.小站历程"></a>4.小站历程</h2><ul><li>2025.2.18-2.19 优化网站页面</li><li>2025.2.17 域名备案成功 网站可以访问</li></ul>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>link</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>分类</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>电影</title>
+      <link href="/movies/index.html"/>
+      <url>/movies/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>tags</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>音乐</title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+  
+</search>
